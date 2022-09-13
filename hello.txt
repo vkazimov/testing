@@ -1,2 +1,5 @@
 hello
 elave setir
+
+
+4 cu setir elave edldi
